@@ -1,0 +1,10 @@
+#user-post {
+    width: 100%;
+    height: 25px;
+}
+
+.post-box {
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+}
